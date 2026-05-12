@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3f163d2c5a5434384483fb4cf11335, type: 3}
+  m_Name: Flower_SO
+  m_EditorClassIdentifier: 
+  StageName: Flower
+  Description: 
+  SpriteForUI: {fileID: 0}
+  ModelPrefab: {fileID: 6390511052587320841, guid: cba5de56a21c6834f94478416ed958d7, type: 3}
+  GrowthRate: 10
+  TimeTillNextStage: 10
+  IsFinalStage: 1
+  WaterRequirement: 3
+  SoilQualityRequirement: 3
+  SunlightRequirement: 3
+  NextStage: {fileID: 0}
+  PositivePollutingEffect: 1
+  AmountOfItemsDropped: 0
+  DroptRate: 0
+  AmountCanBeHarvested: 0
+  Item: {fileID: 0}

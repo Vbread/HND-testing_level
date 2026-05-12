@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8ef56d596a7f64eafa0f8f8e94556a, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  inventory:
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  - ItemID: 0
+    ItemQuantity: 0
+    ItemHasLimit: 0
+    MaxItemQuantity: 0
+  InventorySize: 10
+  DefaultHasLimit: 1
+  defaultMaxItemQuantity: 100

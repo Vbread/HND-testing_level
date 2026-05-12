@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3f163d2c5a5434384483fb4cf11335, type: 3}
+  m_Name: BerryBush_SO
+  m_EditorClassIdentifier: 
+  StageName: Berry Bush
+  Description: 
+  SpriteForUI: {fileID: 0}
+  ModelPrefab: {fileID: 3658985645421595166, guid: e22078c6e14e94948b45157402312f9a, type: 3}
+  GrowthRate: 1
+  TimeTillNextStage: 10
+  IsFinalStage: 1
+  WaterRequirement: 2
+  SoilQualityRequirement: 2
+  SunlightRequirement: 2
+  NextStage: {fileID: 0}
+  PositivePollutingEffect: 1
+  AmountOfItemsDropped: 2
+  DroptRate: 0
+  AmountCanBeHarvested: 2
+  Item: {fileID: 0}
